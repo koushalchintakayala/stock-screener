@@ -96,7 +96,7 @@ export const MARKET_OVERVIEW_WIDGET_CONFIG = {
 };
 
 export const HEATMAP_WIDGET_CONFIG = {
-    dataSource: 'SENSEX',
+    dataSource: 'SPX500',
     blockSize: 'market_cap_basic',
     blockColor: 'change',
     grouping: 'sector',
